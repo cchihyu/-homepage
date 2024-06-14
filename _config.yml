@@ -24,7 +24,7 @@ author:
   avatar           : "umich.jpg"
   name             : "Chih-Yu Chang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : 
   location         : "Ann Arbor, MI"
   employer         : "University of Michigan, Ann Arbor"
   uri              : # URL
@@ -121,7 +121,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
