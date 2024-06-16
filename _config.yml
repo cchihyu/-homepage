@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "umich.jpg"
   name             : "Chih-Yu Chang"
   pronouns         : "he/his" 
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : 
+  location         : "Ann Arbor, MI"
+  employer         : "University of Michigan, Ann Arbor"
   uri              : "https://lsa.umich.edu/stats/people/masters-students-of-applied-statistics/cchihyu.html"
   email            : "cchihyu@umich.edu" 
 
