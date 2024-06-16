@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "umich.jpg"
   name             : "Chih-Yu Chang"
-  pronouns         : "he/his" 
+  pronouns         : 
   bio              : 
   location         : "Ann Arbor, MI"
   employer         : "University of Michigan, Ann Arbor"
@@ -32,9 +32,9 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : 
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
